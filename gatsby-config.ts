@@ -8,9 +8,9 @@ const config: GatsbyConfig = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.mjs
-    siteTitle: `The Ghana Banana`,
+    siteTitle: `Ghana Stay A While`,
     siteTitleAlt: `Ghana Blog`,
-    siteHeadline: `The Ghana Banana - Our time in Ghana`,
+    siteHeadline: `Ghana Stay A While - Our time in Ghana`,
     siteUrl: `https://todo.com`,
     siteDescription: `Some notes and pictures from our time living in Ghana`,
     siteImage: `/banner.png`,
@@ -53,8 +53,8 @@ const config: GatsbyConfig = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `The Ghana Banana`,
-        short_name: `ghana-banana`,
+        name: `Ghana Stay A While`,
+        short_name: `ghana-stay`,
         description: `Some notes and pictures from our time living in Ghana`,
         start_url: `/`,
         background_color: `#fff`,
